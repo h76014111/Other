@@ -7,7 +7,8 @@ int  main()
 {
 
 cout<<" Hi !!";
-system("pause");
+cout<<"Alo  ";
+
 return 0;
 
 }
